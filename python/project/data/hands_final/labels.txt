@@ -1,0 +1,4 @@
+Background
+Next
+Pause
+Play
