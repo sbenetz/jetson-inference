@@ -2,7 +2,7 @@ This is a short project that uses Image Clasification inference to help make an 
 
 This code was all forked from the dusty-nv jetson inference project on Github (https://github.com/dusty-nv/jetson-inference). I used some of this code and documentation to create and train my model. Follow the documentation at https://github.com/sbenetz/jetson-inference/blob/master/docs/pytorch-cat-dog.md and https://github.com/sbenetz/jetson-inference/blob/master/docs/pytorch-collect.md to see how to train and run the model. 
 
-Porject folder with model and data for training: python/project
+Project folder with model and data for training: python/project
 
 Steps of how to use: 
 1. start the docker by running docker/run.sh - this should create an environment that has all the necessary packages and modules for the project. 
